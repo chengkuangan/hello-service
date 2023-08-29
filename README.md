@@ -1,4 +1,4 @@
-# CBC Demo Loan Service - Backend API
+# Hello Service
 
 ## Build Native Binary
 
